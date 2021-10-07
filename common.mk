@@ -38,6 +38,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     OdmOverlay-OPSystemUI \
+    OdmOverlay-framework-res \
     OnePlusIconShapeCircleOverlay \
     OnePlusIconShapeRoundedRectOverlay \
     OnePlusIconShapeSquareOverlay \
